@@ -6,7 +6,7 @@ __pycache__/
 .env
 .env.*
 
-# Virtual environment
+# Virtual environments
 venv/
 env/
 .venv/
@@ -16,7 +16,10 @@ db.sqlite3
 media/
 staticfiles/
 
-# IDE
+# Docker
+*.log
+
+# IDEs
 .vscode/
 .idea/
 
